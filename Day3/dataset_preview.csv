@@ -1,0 +1,51 @@
+Name,Location,Year,Kilometers_Driven,Fuel_Type,Transmission,Mileage,Engine,Power,New_Price,Price
+Honda Jazz V,Chennai,2011,46000,Petrol,Manual,18.2,1199.0,88.7,8.61 Lakh,4.5
+Toyota Innova Crysta 2.8 GX AT 8S,Mumbai,2016,36000,Diesel,Automatic,11.36,2755.0,171.5,21 Lakh,17.5
+Maruti Ciaz Zeta,Kochi,2018,25692,Petrol,Manual,21.56,1462.0,103.25,10.65 Lakh,9.95
+BMW 3 Series 320d,Kochi,2014,32982,Diesel,Automatic,22.69,1995.0,190.0,47.87 Lakh,18.55
+Honda WRV i-VTEC VX,Kochi,2018,37430,Petrol,Manual,17.5,1199.0,88.7,10.57 Lakh,9.9
+Volkswagen Vento 1.6 Highline,Coimbatore,2014,55431,Petrol,Manual,16.09,1598.0,103.5,12.33 Lakh,6.98
+Maruti Vitara Brezza ZDi Plus,Kochi,2018,50075,Diesel,Manual,24.3,1248.0,88.5,11.12 Lakh,8.63
+Hyundai Elantra 2.0 SX Option AT,Bangalore,2014,46374,Petrol,Automatic,14.62,1999.0,149.92,23.64 Lakh,8.85
+Toyota Innova Crysta 2.7 GX MT,Bangalore,2012,70704,Petrol,Manual,11.25,2694.0,163.7,18.64 Lakh,10.95
+Toyota Innova Crysta 2.4 GX MT 8S,Mumbai,2017,22000,Diesel,Manual,13.68,2393.0,147.8,19.34 Lakh,16.5
+Hyundai Creta 1.4 E Plus Diesel,Mumbai,2018,13000,Diesel,Manual,22.1,1396.0,88.7,11.81 Lakh,10.5
+Nissan Terrano XV D Pre,Kochi,2015,56066,Diesel,Manual,19.64,1461.0,108.5,16.65 Lakh,6.92
+Tata Zest Revotron 1.2T XE,Pune,2017,70000,Petrol,Manual,17.57,1193.0,88.7,6.67 Lakh,4.5
+Datsun GO Plus T Petrol,Pune,2017,32851,Petrol,Manual,19.83,1198.0,67.0,6.45 Lakh,3.95
+Toyota Etios Liva 1.2 G,Ahmedabad,2014,53000,Petrol,Manual,17.71,1197.0,78.9,6.41 Lakh,3.9
+Toyota Innova Crysta 2.8 ZX AT,Mumbai,2017,30000,Diesel,Automatic,11.36,2755.0,171.5,27 Lakh,19.25
+Maruti Eeco 5 Seater AC,Coimbatore,2017,38053,Petrol,Manual,15.1,1196.0,73.0,5.13 Lakh,3.91
+BMW 3 Series 320d Luxury Line,Mumbai,2015,56087,Diesel,Automatic,22.69,1995.0,190.0,54.43 Lakh,20.75
+Nissan Micra XV CVT,Coimbatore,2016,39882,Petrol,Automatic,19.15,1198.0,75.94,9.51 Lakh,6.55
+Maruti Vitara Brezza VDi,Mumbai,2016,55000,Diesel,Manual,24.3,1248.0,88.5,9.96 Lakh,7.5
+Hyundai Verna CRDi 1.6 SX Option,Kolkata,2018,10250,Diesel,Manual,22.0,1582.0,126.2,14.44 Lakh,10.95
+Maruti Alto K10 VXI,Hyderabad,2014,88500,Petrol,Manual,24.07,998.0,67.1,4.53 Lakh,2.6
+Hyundai Verna VTVT 1.6 AT SX Plus,Kochi,2019,12645,Petrol,Automatic,17.0,1591.0,121.3,13.49 Lakh,11.5
+BMW 3 Series Luxury Line,Mumbai,2014,48000,Diesel,Automatic,21.76,1995.0,190.0,60.88 Lakh,26.5
+Hyundai Grand i10 1.2 Kappa Asta,Kolkata,2019,1000,Petrol,Manual,18.9,1197.0,81.86,7.39 Lakh,6.5
+BMW 5 Series 520d Luxury Line,Hyderabad,2014,51000,Diesel,Automatic,22.48,1995.0,190.0,69.47 Lakh,33.5
+Maruti Baleno Alpha,Kochi,2017,24773,Petrol,Manual,21.4,1197.0,83.1,8.78 Lakh,7.5
+Maruti Ertiga ZDI,Mumbai,2016,33000,Diesel,Manual,25.47,1248.0,88.5,12.74 Lakh,8.5
+Mahindra NuvoSport N6,Chennai,2017,29000,Diesel,Manual,17.45,1493.0,100.0,10.52 Lakh,6.5
+Maruti Vitara Brezza ZDi Plus Dual Tone,Mumbai,2016,20000,Diesel,Manual,24.3,1248.0,88.5,11.98 Lakh,9.0
+Honda Amaze S Diesel,Kolkata,2013,45000,Diesel,Manual,27.4,1498.0,98.6,8.54 Lakh,3.25
+Skoda Superb Style 1.8 TSI AT,Hyderabad,2017,26000,Petrol,Automatic,14.67,1798.0,177.46,33.58 Lakh,26.0
+Maruti Wagon R VXI,Kolkata,2013,32000,Petrol,Manual,22.5,998.0,67.04,5.29 Lakh,2.65
+Mini Cooper Convertible S,Kochi,2017,26327,Petrol,Automatic,16.82,1998.0,189.08,44.28 Lakh,35.67
+Toyota Innova Crysta 2.8 GX AT,Kochi,2019,14165,Diesel,Automatic,11.36,2755.0,171.5,20.74 Lakh,19.64
+Honda City i-VTEC V,Kolkata,2011,32572,Petrol,Manual,17.4,1497.0,117.3,11.74 Lakh,3.87
+Toyota Innova Crysta 2.4 ZX MT,Pune,2017,43000,Diesel,Manual,13.68,2393.0,147.8,25.52 Lakh,18.65
+Tata Zest Quadrajet 1.3 75PS XE,Pune,2018,45000,Diesel,Manual,22.95,1248.0,74.0,8.34 Lakh,5.25
+Honda Jazz VX,Delhi,2015,62178,Petrol,Manual,18.2,1199.0,88.7,8.85 Lakh,4.85
+Toyota Innova Crysta 2.4 ZX MT,Chennai,2016,48000,Diesel,Manual,13.68,2393.0,147.8,25.4 Lakh,20.25
+Honda City i-VTEC CVT ZX,Mumbai,2017,15000,Petrol,Automatic,18.0,1497.0,117.3,16.67 Lakh,12.69
+Honda Brio 1.2 VX MT,Kochi,2012,91931,Petrol,Manual,18.5,1198.0,86.8,6.62 Lakh,3.13
+Maruti Vitara Brezza LDi,Chennai,2016,45000,Diesel,Manual,24.3,1248.0,88.5,9.12 Lakh,7.15
+BMW 3 Series Luxury Line,Kochi,2015,30717,Diesel,Automatic,21.76,1995.0,190.0,58.67 Lakh,25.99
+Skoda Octavia RS,Jaipur,2005,100000,Petrol,Automatic,14.45,1984.0,227.0,28.37 Lakh,2.05
+Maruti Alto K10 VXI,Pune,2017,30000,Petrol,Manual,24.07,998.0,67.1,4.48 Lakh,3.75
+Skoda Superb L&K 1.8 TSI AT,Kochi,2019,13747,Petrol,Automatic,14.67,1798.0,177.46,36.15 Lakh,27.3
+Mini Clubman Cooper S,Pune,2017,8350,Petrol,Manual,13.8,1998.0,192.0,44.59 Lakh,35.0
+Maruti Vitara Brezza ZDi Plus,Hyderabad,2017,39000,Diesel,Manual,24.3,1248.0,88.5,12 Lakh,9.49
+Honda BRV i-VTEC V CVT,Kochi,2017,35676,Petrol,Automatic,16.0,1497.0,117.3,14.65 Lakh,9.48
